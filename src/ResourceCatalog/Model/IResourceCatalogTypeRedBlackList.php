@@ -128,11 +128,11 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['P_SXBZXR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
         IResourceCatalog::TYPE['P_YXSBHQS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
 
-        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['IS_CONFIRM'],
-        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['IS_CONFIRM'],
-        IResourceCatalog::TYPE['T_XINING_P_JYXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['IS_CONFIRM'],
-        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['IS_CONFIRM'],
-        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['IS_CONFIRM'],
+        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_JYXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }
