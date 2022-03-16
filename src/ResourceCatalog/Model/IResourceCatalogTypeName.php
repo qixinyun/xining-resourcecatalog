@@ -126,6 +126,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['P_JGJGBB'] => '获得“巾帼建功标兵”荣誉称号信息',
         IResourceCatalog::TYPE['P_SXBZXR'] => '失信被执行自然人信息',
         IResourceCatalog::TYPE['P_YXSBHQS'] => '获得“三八红旗手”荣誉称号信息',
+
+        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] => '个人公积金业务明细信息',
+        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] => '个人住房公积金',
+        IResourceCatalog::TYPE['T_XINING_P_JYXX'] => '教育信息',
+        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] => '学生学籍信息',
+        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] => '社保缴费信息',
         //@position
     );
 }

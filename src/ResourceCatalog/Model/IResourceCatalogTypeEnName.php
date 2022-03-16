@@ -126,6 +126,12 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['P_JGJGBB'] => 'p_jgjgbb',
         IResourceCatalog::TYPE['P_SXBZXR'] => 'p_sxbzxr',
         IResourceCatalog::TYPE['P_YXSBHQS'] => 'p_yxsbhqs',
+
+        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] => 't_xining_p_grgjjywmxxx',
+        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] => 't_xining_p_grzfgjj',
+        IResourceCatalog::TYPE['T_XINING_P_JYXX'] => 't_xining_p_jyxx',
+        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] => 't_xining_p_xsxjxx_new',
+        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] => 't_xining_p_sbjfxx',
         //@position
     );
 }
