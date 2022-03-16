@@ -126,12 +126,16 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['P_JGJGBB'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['P_SXBZXR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['P_YXSBHQS'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-
-        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['T_XINING_P_JYXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_JYXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_CWFZR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_DSJSJLXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }
