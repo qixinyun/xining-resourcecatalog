@@ -126,12 +126,16 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['P_JGJGBB'] => '获得“巾帼建功标兵”荣誉称号信息',
         IResourceCatalog::TYPE['P_SXBZXR'] => '失信被执行自然人信息',
         IResourceCatalog::TYPE['P_YXSBHQS'] => '获得“三八红旗手”荣誉称号信息',
-
         IResourceCatalog::TYPE['T_XINING_P_GRGJJYWMXXX'] => '个人公积金业务明细信息',
         IResourceCatalog::TYPE['T_XINING_P_GRZFGJJ'] => '个人住房公积金',
         IResourceCatalog::TYPE['T_XINING_P_JYXX'] => '教育信息',
         IResourceCatalog::TYPE['T_XINING_P_XSXJXX_NEW'] => '学生学籍信息',
         IResourceCatalog::TYPE['T_XINING_P_SBJFXX'] => '社保缴费信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_CWFZR'] => 'FB-财务负责人',
+        IResourceCatalog::TYPE['T_GONGSHANG_DSJSJLXX'] => 'FB-董事监事经理信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => 'FB-企业法定代表人登记信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => 'FB-分支机构主管部门信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => 'FB-个体户变更信息',
         //@position
     );
 }
