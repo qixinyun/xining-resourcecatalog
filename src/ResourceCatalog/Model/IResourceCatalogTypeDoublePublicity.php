@@ -136,6 +136,12 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXWZHWD'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXZCXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_QYBGXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_QYJYYCML'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_TZFGDXX'] =>  ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

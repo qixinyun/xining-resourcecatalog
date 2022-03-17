@@ -137,6 +137,12 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXWZHWD'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXZCXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_QYBGXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_QYJYYCML'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_GONGSHANG_TZFGDXX'] =>  ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }

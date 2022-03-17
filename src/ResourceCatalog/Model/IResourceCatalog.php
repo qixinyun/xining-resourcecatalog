@@ -135,7 +135,12 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'T_GONGSHANG_FRXX' => 128,
         'T_GONGSHANG_FZJGZGBMXX' => 129,
         'T_GONGSHANG_GTHBGXX' => 130,
-        // @position_type_131
+        'T_GONGSHANG_NBXXWZHWD' => 131,
+        'T_GONGSHANG_NBXXZCXX' => 132,
+        'T_GONGSHANG_QYBGXX' => 133,
+        'T_GONGSHANG_QYJYYCML' => 134,
+        'T_GONGSHANG_TZFGDXX' => 135,
+        // @position_type_136
         'TEST' => 500,
     );
 
@@ -174,6 +179,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_GONGSHANG_FRXX'],
             self::TYPE['T_GONGSHANG_FZJGZGBMXX'],
             self::TYPE['T_GONGSHANG_GTHBGXX'],
+            self::TYPE['T_GONGSHANG_NBXXWZHWD'],
+            self::TYPE['T_GONGSHANG_NBXXZCXX'],
+            self::TYPE['T_GONGSHANG_QYBGXX'],
+            self::TYPE['T_GONGSHANG_QYJYYCML'],
+            self::TYPE['T_GONGSHANG_TZFGDXX'],
         ),
         IUserGroup::ID['SSWJ'] => array(
             self::TYPE['C_AJNSR'],

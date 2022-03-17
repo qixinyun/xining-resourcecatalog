@@ -136,6 +136,12 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => 't_gongshang_frxx',
         IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => 't_gongshang_fzjgzgbmxx',
         IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => 't_gongshang_gthbgxx',
+
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXWZHWD'] =>  't_gongshang_nbxxwzhwd',
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXZCXX'] =>  't_gongshang_nbxxzcxx',
+        IResourceCatalog::TYPE['T_GONGSHANG_QYBGXX'] =>  't_gongshang_qybgxx',
+        IResourceCatalog::TYPE['T_GONGSHANG_QYJYYCML'] =>  't_gongshang_qyjyycml',
+        IResourceCatalog::TYPE['T_GONGSHANG_TZFGDXX'] =>  't_gongshang_tzfgdxx',
         //@position
     );
 }
