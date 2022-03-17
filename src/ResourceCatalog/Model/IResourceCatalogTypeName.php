@@ -136,12 +136,16 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_GONGSHANG_FRXX'] => 'FB-企业法定代表人登记信息',
         IResourceCatalog::TYPE['T_GONGSHANG_FZJGZGBMXX'] => 'FB-分支机构主管部门信息',
         IResourceCatalog::TYPE['T_GONGSHANG_GTHBGXX'] => 'FB-个体户变更信息',
-
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXWZHWD'] =>  'FB-年报信息-网站或网店信息',
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXZCXX'] =>  'FB-年报信息-资产信息',
         IResourceCatalog::TYPE['T_GONGSHANG_QYBGXX'] =>  'FB-企业变更信息',
         IResourceCatalog::TYPE['T_GONGSHANG_QYJYYCML'] =>  'FB-企业经营异常名录',
         IResourceCatalog::TYPE['T_GONGSHANG_TZFGDXX'] =>  'FB-投资方股东信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_GTJYCSXX'] => 'FB-个体经营场所信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_LLYXX'] => 'FB-联络员信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXGQBGXX'] => 'FB-年报信息-股权变更信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXJBXX'] => 'FB-年报信息-基本信息',
+        IResourceCatalog::TYPE['T_GONGSHANG_NBXXQYRJCZ'] => 'FB-年报信息-企业认缴出资信息',
         //@position
     );
 }
