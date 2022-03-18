@@ -146,7 +146,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXGQBGXX'] => 'FB-年报信息-股权变更信息',
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXJBXX'] => 'FB-年报信息-基本信息',
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXQYRJCZ'] => 'FB-年报信息-企业认缴出资信息',
-
         IResourceCatalog::TYPE['T_XINING_P_GRGJJDKSQJDXX'] => '个人公积金贷款申请进度信息',
         IResourceCatalog::TYPE['T_XINING_GJJDSJ_CR_GR'] => '缴存职工基础信息表',
         IResourceCatalog::TYPE['GS_GT_GTGSHXX'] => 'FB-个体工商户信息',
@@ -155,6 +154,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_XINING_P_XZGFXX'] => '行政给付信息_自然人',
         IResourceCatalog::TYPE['T_XINING_P_XZQRXX'] => '行政确认信息_自然人',
         IResourceCatalog::TYPE['T_GJJDSJ_FGW_DWYWMX'] => '单位业务明细信息',
+        IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_GTJKR'] => '贷款共同借款人',
+        IResourceCatalog::TYPE['T_XINING_L_GTJYCSXX'] => '个体经营场所信息',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXJBXX'] => '年报信息（基本信息）',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => '年报信息（资产信息）',
         //@position
     );
 }

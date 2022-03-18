@@ -146,7 +146,6 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXGQBGXX'] => 'T_GONGSHANG_NBXXGQBGXX',
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXJBXX'] => 'T_GONGSHANG_NBXXJBXX',
         IResourceCatalog::TYPE['T_GONGSHANG_NBXXQYRJCZ'] => 'T_GONGSHANG_NBXXQYRJCZ',
-
         IResourceCatalog::TYPE['T_XINING_P_GRGJJDKSQJDXX'] => 'T_XINING_P_GRGJJDKSQJDXX',
         IResourceCatalog::TYPE['T_XINING_GJJDSJ_CR_GR'] => 'T_XINING_GJJDSJ_CR_GR',
         IResourceCatalog::TYPE['GS_GT_GTGSHXX'] => 'GS_GT_GTGSHXX',
@@ -155,6 +154,10 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['T_XINING_P_XZGFXX'] => 'T_XINING_P_XZGFXX',
         IResourceCatalog::TYPE['T_XINING_P_XZQRXX'] => 'T_XINING_P_XZQRXX',
         IResourceCatalog::TYPE['T_GJJDSJ_FGW_DWYWMX'] => 'T_GJJDSJ_FGW_DWYWMX',
+        IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_GTJKR'] => 'T_XINING_GJJDSJ_GRDK_SQ_GTJKR',
+        IResourceCatalog::TYPE['T_XINING_L_GTJYCSXX'] => 'T_XINING_L_GTJYCSXX',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXJBXX'] => 'T_XINING_L_NBXXJBXX',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => 'T_XINING_L_NBXXZCXX',
         //@position
     );
 }
