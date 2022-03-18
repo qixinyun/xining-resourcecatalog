@@ -145,7 +145,16 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'T_GONGSHANG_NBXXGQBGXX' => 138,
         'T_GONGSHANG_NBXXJBXX' => 139,
         'T_GONGSHANG_NBXXQYRJCZ' => 140,
-        // @position_type_136
+
+        'T_XINING_P_GRGJJDKSQJDXX' => 141,
+        'T_XINING_GJJDSJ_CR_GR' => 142,
+        'GS_GT_GTGSHXX' => 143,
+        'T_XINING_P_SPFYSHTBA' => 144,
+        'T_XINING_GJJDSJ_GRDK_SQ_DBXX' => 145,
+        'T_XINING_P_XZGFXX' => 146,
+        'T_XINING_P_XZQRXX' => 147,
+        'T_GJJDSJ_FGW_DWYWMX' => 148,
+        // @position_type_149
         'TEST' => 500,
     );
 
@@ -164,6 +173,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['TZXMMCDMPPXX'],
             self::TYPE['QYGDZCTZXMHZHBA'],
             self::TYPE['TEST'],
+            self::TYPE['T_XINING_P_XZGFXX'],
+            self::TYPE['T_XINING_P_XZQRXX'],
+            self::TYPE['T_GJJDSJ_FGW_DWYWMX'],
         ),
         IUserGroup::ID['SSCJDGLJ'] => array(
             self::TYPE['QYJBXX'],
@@ -194,6 +206,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_GONGSHANG_NBXXGQBGXX'],
             self::TYPE['T_GONGSHANG_NBXXJBXX'],
             self::TYPE['T_GONGSHANG_NBXXQYRJCZ'],
+            self::TYPE['GS_GT_GTGSHXX'],
         ),
         IUserGroup::ID['SSWJ'] => array(
             self::TYPE['C_AJNSR'],
@@ -329,6 +342,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SGJAQJ'] => array(
         ),
         IUserGroup::ID['SZfBZFCJ'] => array(
+            self::TYPE['T_XINING_P_SPFYSHTBA'],
+            self::TYPE['T_XINING_GJJDSJ_GRDK_SQ_DBXX'],
         ),
         IUserGroup::ID['STYJRJ'] => array(
         ),
@@ -369,6 +384,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['GJJGLZX'] => array(
             self::TYPE['T_XINING_P_GRGJJYWMXXX'],
             self::TYPE['T_XINING_P_GRZFGJJ'],
+            self::TYPE['T_XINING_P_GRGJJDKSQJDXX'],
+            self::TYPE['T_XINING_GJJDSJ_CR_GR'],
         ),
         IUserGroup::ID['ZGDXXNFGS'] => array(
         ),
