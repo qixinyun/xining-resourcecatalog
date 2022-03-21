@@ -159,6 +159,19 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['T_XINING_L_GTJYCSXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['T_XINING_L_NBXXJBXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_L_GQJGXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_GZXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_JCDWXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_L_JDJCXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_JYT_JSGXXX_SJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_L_NBXXQYRJCZXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_JTJ_XN_TAXI_PRACTITIONERS_INFO'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_QFHTBAZX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_L_QTJGDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_QTXZZFXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_TKGYJFFLS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['T_XINING_P_ZYCYZGXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }

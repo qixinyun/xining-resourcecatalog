@@ -158,6 +158,19 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['T_XINING_L_GTJYCSXX'] => 't_xining_l_gtjycsxx',
         IResourceCatalog::TYPE['T_XINING_L_NBXXJBXX'] => 't_xining_l_nbxxjbxx',
         IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => 't_xining_l_nbxxzcxx',
+        IResourceCatalog::TYPE['T_XINING_L_GQJGXX'] => 't_xining_l_gqjgxx',
+        IResourceCatalog::TYPE['T_XINING_P_GZXX'] => 't_xining_p_gzxx',
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_JCDWXX'] => 't_gjjdsj_fgw_jcdwxx',
+        IResourceCatalog::TYPE['T_XINING_L_JDJCXX'] => 't_xining_l_jdjcxx',
+        IResourceCatalog::TYPE['T_XINING_JYT_JSGXXX_SJ'] => 't_xining_jyt_jsgxxx_sj',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXQYRJCZXX'] => 't_xining_l_nbxxqyrjczxx',
+        IResourceCatalog::TYPE['T_XINING_JTJ_XN_TAXI_PRACTITIONERS_INFO'] => 't_xining_jtj_xn_taxi_practitioners_info',
+        IResourceCatalog::TYPE['T_XINING_P_QFHTBAZX'] => 't_xining_p_qfhtbazx',
+        IResourceCatalog::TYPE['T_XINING_L_QTJGDJXX'] => 't_xining_l_qtjgdjxx',
+        IResourceCatalog::TYPE['T_XINING_P_QTXZZFXX'] => 't_xining_p_qtxzzfxx',
+        IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'] => 't_xining_gjjdsj_grdk_sq_htxx',
+        IResourceCatalog::TYPE['T_XINING_P_TKGYJFFLS'] => 't_xining_p_tkgyjffls',
+        IResourceCatalog::TYPE['T_XINING_P_ZYCYZGXX'] => 't_xining_p_zycyzgxx',
         //@position
     );
 }
