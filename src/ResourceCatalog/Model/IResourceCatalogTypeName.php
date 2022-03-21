@@ -158,6 +158,19 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_XINING_L_GTJYCSXX'] => '个体经营场所信息',
         IResourceCatalog::TYPE['T_XINING_L_NBXXJBXX'] => '年报信息（基本信息）',
         IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => '年报信息（资产信息）',
+        IResourceCatalog::TYPE['T_XINING_L_GQJGXX'] => '股权结构信息',
+        IResourceCatalog::TYPE['T_XINING_P_GZXX'] => '工作信息',
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_JCDWXX'] => '公积金管理中心',
+        IResourceCatalog::TYPE['T_XINING_L_JDJCXX'] => '监督检查信息_法人和个体工商户',
+        IResourceCatalog::TYPE['T_XINING_JYT_JSGXXX_SJ'] => '教师管理信息',
+        IResourceCatalog::TYPE['T_XINING_L_NBXXQYRJCZXX'] => '年报信息（企业认缴出资信息）',
+        IResourceCatalog::TYPE['T_XINING_JTJ_XN_TAXI_PRACTITIONERS_INFO'] => '出租车从业人员信息',
+        IResourceCatalog::TYPE['T_XINING_P_QFHTBAZX'] => '期房合同备案注销',
+        IResourceCatalog::TYPE['T_XINING_L_QTJGDJXX'] => '其他机构登记信息',
+        IResourceCatalog::TYPE['T_XINING_P_QTXZZFXX'] => '其他行政执法信息_自然人',
+        IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'] => '贷款申请合同信息表',
+        IResourceCatalog::TYPE['T_XINING_P_TKGYJFFLS'] => '特困供养金发放历史',
+        IResourceCatalog::TYPE['T_XINING_P_ZYCYZGXX'] => '执业从业资格信息',
         //@position
     );
 }
