@@ -171,6 +171,19 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'] => '贷款申请合同信息表',
         IResourceCatalog::TYPE['T_XINING_P_TKGYJFFLS'] => '特困供养金发放历史',
         IResourceCatalog::TYPE['T_XINING_P_ZYCYZGXX'] => '执业从业资格信息',
+        IResourceCatalog::TYPE['T_XINING_L_JGBGDJXX'] => '机构变更登记信息',
+        IResourceCatalog::TYPE['T_XINING_L_JYYCMLXX'] => '经营异常名录信息',
+        IResourceCatalog::TYPE['T_XINING_L_LLYXX'] => '联络员信息',
+        IResourceCatalog::TYPE['T_XINING_L_QHSCYHYSPAQDJPJ'] => '青海省餐饮行业食品安全等级评价',
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_DWZHXX'] => '单位公积金账户信息',
+        IResourceCatalog::TYPE['T_XINING_P_GZFFPXX'] => '西宁市公租房的分配信息',
+        IResourceCatalog::TYPE['T_XINING_L_QFHTBAZX'] => '期房合同备案注销',
+        IResourceCatalog::TYPE['T_XINING_P_JDJCXX'] => '监督检查信息_自然人',
+        IResourceCatalog::TYPE['T_XINING_P_RYBZXX'] => '荣誉表彰信息_自然人',
+        IResourceCatalog::TYPE['T_XINING_P_ZDRQZZXX'] => '重点人群资质信息',
+        IResourceCatalog::TYPE['T_XINING_L_HYXXPJ'] => '行业信息评价',
+        IResourceCatalog::TYPE['T_XINING_P_SXBZXRMDXX'] => '失信被执行人名单信息_自然人',
+        IResourceCatalog::TYPE['T_XINING_P_TKGYRYJTDA'] => '特困供养人员家庭档案',
         //@position
     );
 }

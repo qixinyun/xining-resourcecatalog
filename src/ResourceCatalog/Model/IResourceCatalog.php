@@ -170,7 +170,20 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'T_XINING_GJJDSJ_GRDK_SQ_HTXX' => 163,
         'T_XINING_P_TKGYJFFLS' => 164,
         'T_XINING_P_ZYCYZGXX' => 165,
-        // @position_type_166
+        'T_XINING_L_JGBGDJXX' => 166,
+        'T_XINING_L_JYYCMLXX' => 167,
+        'T_XINING_L_LLYXX' => 168,
+        'T_XINING_L_QHSCYHYSPAQDJPJ' => 169,
+        'T_GJJDSJ_FGW_DWZHXX' => 170,
+        'T_XINING_P_GZFFPXX' => 171,
+        'T_XINING_L_QFHTBAZX' => 172,
+        'T_XINING_P_JDJCXX' => 173,
+        'T_XINING_P_RYBZXX' => 174,
+        'T_XINING_P_ZDRQZZXX' => 175,
+        'T_XINING_L_HYXXPJ' => 176,
+        'T_XINING_P_SXBZXRMDXX' => 177,
+        'T_XINING_P_TKGYRYJTDA' => 178,
+        // @position_type_179
         'TEST' => 500,
     );
 
@@ -196,6 +209,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_XINING_L_JDJCXX'],
             self::TYPE['T_XINING_P_QTXZZFXX'],
             self::TYPE['T_XINING_P_ZYCYZGXX'],
+            self::TYPE['T_XINING_P_JDJCXX'],
+            self::TYPE['T_XINING_P_RYBZXX'],
+            self::TYPE['T_XINING_P_ZDRQZZXX'],
+            self::TYPE['T_XINING_L_HYXXPJ'],
         ),
         IUserGroup::ID['SSCJDGLJ'] => array(
             self::TYPE['QYJBXX'],
@@ -233,6 +250,10 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_XINING_L_GQJGXX'],
             self::TYPE['T_XINING_L_NBXXQYRJCZXX'],
             self::TYPE['T_XINING_L_QTJGDJXX'],
+            self::TYPE['T_XINING_L_JGBGDJXX'],
+            self::TYPE['T_XINING_L_JYYCMLXX'],
+            self::TYPE['T_XINING_L_LLYXX'],
+            self::TYPE['T_XINING_L_QHSCYHYSPAQDJPJ'],
         ),
         IUserGroup::ID['SSWJ'] => array(
             self::TYPE['C_AJNSR'],
@@ -262,6 +283,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             //self::TYPE['P_SXBZXR'],
             self::TYPE['C_SXBZXJG'],
             self::TYPE['SXBZXRXX'],
+            self::TYPE['T_XINING_P_SXBZXRMDXX'],
         ),
         IUserGroup::ID['SJTJ'] => array(
             self::TYPE['SLYSXKZXX'],
@@ -318,6 +340,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['MBFQYML'],
             self::TYPE['SHTTDJXX'],
             self::TYPE['T_XINING_P_TKGYJFFLS'],
+            self::TYPE['T_XINING_P_TKGYRYJTDA'],
         ),
         IUserGroup::ID['SSFJ'] => array(
             self::TYPE['SFJDJGCYRYZGXX'],
@@ -376,6 +399,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_XINING_GJJDSJ_GRDK_SQ_GTJKR'],
             self::TYPE['T_XINING_P_QFHTBAZX'],
             self::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'],
+            self::TYPE['T_XINING_P_GZFFPXX'],
+            self::TYPE['T_XINING_L_QFHTBAZX'],
         ),
         IUserGroup::ID['STYJRJ'] => array(
         ),
@@ -419,6 +444,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_XINING_P_GRGJJDKSQJDXX'],
             self::TYPE['T_XINING_GJJDSJ_CR_GR'],
             self::TYPE['T_GJJDSJ_FGW_JCDWXX'],
+            self::TYPE['T_GJJDSJ_FGW_DWZHXX'],
         ),
         IUserGroup::ID['ZGDXXNFGS'] => array(
         ),

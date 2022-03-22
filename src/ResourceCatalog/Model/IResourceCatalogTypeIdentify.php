@@ -171,6 +171,19 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['T_XINING_GJJDSJ_GRDK_SQ_HTXX'] => 'T_XINING_GJJDSJ_GRDK_SQ_HTXX',
         IResourceCatalog::TYPE['T_XINING_P_TKGYJFFLS'] => 'T_XINING_P_TKGYJFFLS',
         IResourceCatalog::TYPE['T_XINING_P_ZYCYZGXX'] => 'T_XINING_P_ZYCYZGXX',
+        IResourceCatalog::TYPE['T_XINING_L_JGBGDJXX'] => 'T_XINING_L_JGBGDJXX',
+        IResourceCatalog::TYPE['T_XINING_L_JYYCMLXX'] => 'T_XINING_L_JYYCMLXX',
+        IResourceCatalog::TYPE['T_XINING_L_LLYXX'] => 'T_XINING_L_LLYXX',
+        IResourceCatalog::TYPE['T_XINING_L_QHSCYHYSPAQDJPJ'] => 'T_XINING_L_QHSCYHYSPAQDJPJ',
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_DWZHXX'] => 'T_GJJDSJ_FGW_DWZHXX',
+        IResourceCatalog::TYPE['T_XINING_P_GZFFPXX'] => 'T_XINING_P_GZFFPXX',
+        IResourceCatalog::TYPE['T_XINING_L_QFHTBAZX'] => 'T_XINING_L_QFHTBAZX',
+        IResourceCatalog::TYPE['T_XINING_P_JDJCXX'] => 'T_XINING_P_JDJCXX',
+        IResourceCatalog::TYPE['T_XINING_P_RYBZXX'] => 'T_XINING_P_RYBZXX',
+        IResourceCatalog::TYPE['T_XINING_P_ZDRQZZXX'] => 'T_XINING_P_ZDRQZZXX',
+        IResourceCatalog::TYPE['T_XINING_L_HYXXPJ'] => 'T_XINING_L_HYXXPJ',
+        IResourceCatalog::TYPE['T_XINING_P_SXBZXRMDXX'] => 'T_XINING_P_SXBZXRMDXX',
+        IResourceCatalog::TYPE['T_XINING_P_TKGYRYJTDA'] => 'T_XINING_P_TKGYRYJTDA',
         //@position
     );
 }
