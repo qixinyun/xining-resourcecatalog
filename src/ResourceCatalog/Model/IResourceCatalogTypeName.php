@@ -160,7 +160,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_XINING_L_NBXXZCXX'] => '年报信息（资产信息）',
         IResourceCatalog::TYPE['T_XINING_L_GQJGXX'] => '股权结构信息',
         IResourceCatalog::TYPE['T_XINING_P_GZXX'] => '工作信息',
-        IResourceCatalog::TYPE['T_GJJDSJ_FGW_JCDWXX'] => '公积金管理中心',
+        IResourceCatalog::TYPE['T_GJJDSJ_FGW_JCDWXX'] => '公积金缴纳单位信息',
         IResourceCatalog::TYPE['T_XINING_L_JDJCXX'] => '监督检查信息_法人和个体工商户',
         IResourceCatalog::TYPE['T_XINING_JYT_JSGXXX_SJ'] => '教师管理信息',
         IResourceCatalog::TYPE['T_XINING_L_NBXXQYRJCZXX'] => '年报信息（企业认缴出资信息）',
