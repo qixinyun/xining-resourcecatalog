@@ -183,7 +183,12 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'T_XINING_L_HYXXPJ' => 176,
         'T_XINING_P_SXBZXRMDXX' => 177,
         'T_XINING_P_TKGYRYJTDA' => 178,
-        // @position_type_179
+        'XZCJ'=>179,
+        'XZJDJC'=>180,
+        'XZJL'=>181,
+        'XZQR'=>182,
+        'XZQZ'=>183,
+        // @position_type_184
         'TEST' => 500,
     );
 
@@ -194,6 +199,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZXK'],
         ),
         IUserGroup::ID['SFGW'] => array(
+            self::TYPE['XZQZ'],
+            self::TYPE['XZQR'],
+            self::TYPE['XZJL'],
+            self::TYPE['XZJDJC'],
+            self::TYPE['XZCJ'],
             self::TYPE['LHJLFRHMD'],
             self::TYPE['LHCJFRHMD'],
             self::TYPE['JGJCDXZJL'],

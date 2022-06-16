@@ -14,3 +14,4 @@
 ### <a name="version">版本记录</a>
 
 * [0.1.0](./Docs/Version/0.1.0.md "0.1.0")
+* [0.5.0](./Docs/Version/0.5.0.md "0.5.0")

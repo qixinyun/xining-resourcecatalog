@@ -184,6 +184,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['T_XINING_L_HYXXPJ'] => '行业信息评价',
         IResourceCatalog::TYPE['T_XINING_P_SXBZXRMDXX'] => '失信被执行人名单信息_自然人',
         IResourceCatalog::TYPE['T_XINING_P_TKGYRYJTDA'] => '特困供养人员家庭档案',
+        IResourceCatalog::TYPE['XZCJ'] => '行政裁决信息――国标',
+        IResourceCatalog::TYPE['XZJDJC'] => '行政监督检查信息――国标',
+        IResourceCatalog::TYPE['XZJL'] => '行政奖励信息――国标',
+        IResourceCatalog::TYPE['XZQR'] => '行政确认信息――国标',
+        IResourceCatalog::TYPE['XZQZ'] => '行政强制信息――国标',
         //@position
     );
 }

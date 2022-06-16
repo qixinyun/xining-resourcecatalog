@@ -185,6 +185,11 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['T_XINING_L_HYXXPJ'] => 't_xining_l_hyxxpj',
         IResourceCatalog::TYPE['T_XINING_P_SXBZXRMDXX'] => 't_xining_p_sxbzxrmdxx',
         IResourceCatalog::TYPE['T_XINING_P_TKGYRYJTDA'] => 't_xining_p_tkgyryjtda',
+        IResourceCatalog::TYPE['XZCJ'] => 'xzcj',
+        IResourceCatalog::TYPE['XZJDJC'] => 'xzjdjc',
+        IResourceCatalog::TYPE['XZJL'] => 'xzjl',
+        IResourceCatalog::TYPE['XZQR'] => 'xzqr',
+        IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
         //@position
     );
 }
