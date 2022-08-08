@@ -597,9 +597,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['T_XINING_P_SXBZXRMDXX'],
         ),
         IUserGroup::ID['DTCGJ'] => array(
-            self::TYPE['C_SXBZXJG'],
-            self::TYPE['SXBZXRXX'],
-            self::TYPE['T_XINING_P_SXBZXRMDXX'],
+            self::TYPE['SLYSXKZXX'],
         ),
 
         IUserGroup::ID['CDRSJ'] => array(
