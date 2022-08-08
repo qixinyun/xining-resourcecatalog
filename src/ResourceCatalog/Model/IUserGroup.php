@@ -292,5 +292,6 @@ interface IUserGroup extends IUserGroupIdentify
         'HYXFY' => 725,
         'HYXHJJ' => 726,
         'HYXGAJ' => 727,
+        'DTXMZW' => 801,
     );
 }
