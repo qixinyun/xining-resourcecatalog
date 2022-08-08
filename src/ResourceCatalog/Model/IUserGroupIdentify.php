@@ -292,5 +292,6 @@ interface IUserGroupIdentify
         IUserGroup::ID['HYXFY'] => 'HYXFY',
         IUserGroup::ID['HYXHJJ'] => 'HYXHJJ',
         IUserGroup::ID['HYXGAJ'] => 'HYXGAJ',
+        IUserGroup::ID['DTCGJ'] => 'DTCGJ',
     );
 }

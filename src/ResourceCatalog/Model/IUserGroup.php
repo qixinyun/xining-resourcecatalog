@@ -237,6 +237,7 @@ interface IUserGroup extends IUserGroupIdentify
         'DTXHSZH' => 555,
         'DTXXCZXJ' => 556,
         'DTXLCJ' => 557,
+        'DTCGJ' => 558,
 
         'HZX' => 600,
 
